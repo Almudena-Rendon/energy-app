@@ -1,3 +1,6 @@
+![image](https://github.com/Almudena-Rendon/energy-app/assets/126793941/8bcc9ceb-3464-489d-a67d-38392e7f11af)
+
+
 # Energy App
 
 Energy App es una aplicación que te permite visualizar y comparar datos relacionados con la energía utilizando gráficos. Además, ofrece la funcionalidad de exportar estos datos a un archivo CSV para un análisis más detallado.
