@@ -35,4 +35,4 @@ Energy App es una aplicación que te permite visualizar y comparar datos relacio
 
 ## Consultas
 
-Gracias por la oportunidad y cualquier pregunta o aportación, ¡no dudéis en contactar conmigo!
+ Cualquier pregunta o aportación, ¡no dudéis en contactar conmigo!
